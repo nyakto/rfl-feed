@@ -84,4 +84,8 @@ Realty Feed Language
 
 **Внимание!** Указывать *xmlns="http://www.realtymag.ru/rfl"* обязательно, иначе фид не будет распознан!
 
+Поддерживаемые разделы:
+* [Квартира :: Продажа]
+
 [gzip]: http://www.gnu.org/software/gzip/manual/gzip.html
+[Квартира :: Продажа]: docs/kvartira/prodazha.md
