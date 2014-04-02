@@ -85,7 +85,41 @@ Realty Feed Language
 **Внимание!** Указывать *xmlns="http://www.realtymag.ru/rfl"* обязательно, иначе фид не будет распознан!
 
 Поддерживаемые разделы:
-* [Квартира :: Продажа]
+* [Квартиры :: Продажа]
+* [Квартиры :: Аренда]
+* [Квартиры :: Посуточная аренда]
+* [Новостройки :: Продажа]
+* [Коттеджи :: Продажа]
+* [Коттеджи :: Аренда]
+* [Коттеджи :: Посуточная аренда]
+* [Дачи :: Продажа]
+* [Земельные участки :: Продажа]
+* [Гаражи :: Продажа]
+* [Офисы :: Продажа]
+* [Офисы :: Аренда]
+* [Торговые площади :: Продажа]
+* [Торговые площади :: Аренда]
+* [Склады :: Продажа]
+* [Склады :: Аренда]
+* [ОСЗ :: Продажа]
+* [Коммерческая недвижимость :: Продажа]
 
 [gzip]: http://www.gnu.org/software/gzip/manual/gzip.html
-[Квартира :: Продажа]: docs/kvartira/prodazha.md
+[Квартиры :: Продажа]: docs/kvartira/prodazha.md
+[Квартиры :: Аренда]: docs/kvartira/arenda.md
+[Квартиры :: Посуточная аренда]: docs/kvartira/na-sutki.md
+[Новостройки :: Продажа]: docs/novostroyka/prodazha.md
+[Коттеджи :: Продажа]: docs/cottage/prodazha.md
+[Коттеджи :: Аренда]: docs/cottage/arenda.md
+[Коттеджи :: Посуточная аренда]: docs/cottage/na-sutki.md
+[Дачи :: Продажа]: docs/dacha/prodazha.md
+[Земельные участки :: Продажа]: docs/zemelny-uchastok/prodazha.md
+[Гаражи :: Продажа]: docs/garage/prodazha.md
+[Офисы :: Продажа]: docs/office/prodazha.md
+[Офисы :: Аренда]: docs/office/arenda.md
+[Торговые площади :: Продажа]: docs/magazin/prodazha.md
+[Торговые площади :: Аренда]: docs/magazin/arenda.md
+[Склады :: Продажа]: docs/sklad/prodazha.md
+[Склады :: Аренда]: docs/sklad/arenda.md
+[ОСЗ :: Продажа]: docs/osz/prodazha.md
+[Коммерческая недвижимость :: Продажа]: docs/commercial/prodazha.md
