@@ -76,4 +76,6 @@ Realty Feed Language
 </rfl-feed>
 ```
 
+**Внимание!** Указывать *xmlns="http://www.realtymag.ru/rfl"* обязательно, иначе фид не будет распознан!
+
 [gzip]: http://www.gnu.org/software/gzip/manual/gzip.html
