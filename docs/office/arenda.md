@@ -104,7 +104,7 @@
 		</remoteness>
 		<price>
 			<!--
-				цена
+				стоимость аренды офиса в месяц
 				integer
 			-->
 			<value>2 500 000</value>
