@@ -61,11 +61,6 @@
 			-->
 			<locality-name>Изобильный</locality-name>
 			<!--
-				район города
-				текст
-			-->
-			<sub-locality-name>РЭО</sub-locality-name>
-			<!--
 				адрес
 				текст
 			-->
