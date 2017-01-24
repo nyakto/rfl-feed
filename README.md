@@ -103,6 +103,7 @@ Realty Feed Language
 * [Склады :: Аренда]
 * [ОСЗ :: Продажа]
 * [Коммерческая недвижимость :: Продажа]
+* [Коммерческая недвижимость :: Аренда]
 
 [gzip]: http://www.gnu.org/software/gzip/manual/gzip.html
 [Квартиры :: Продажа]: docs/kvartira/prodazha.md
@@ -123,3 +124,4 @@ Realty Feed Language
 [Склады :: Аренда]: docs/sklad/arenda.md
 [ОСЗ :: Продажа]: docs/osz/prodazha.md
 [Коммерческая недвижимость :: Продажа]: docs/commercial/prodazha.md
+[Коммерческая недвижимость :: Аренда]: docs/commercial/arenda.md
