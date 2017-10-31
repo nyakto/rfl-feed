@@ -394,7 +394,7 @@
 		<additional-info>дополнительная информация</additional-info>
 		<!--
 			фото
-			url, максимум 7 фоторгафий
+			url, максимум 50 фоторгафий
 		-->
 		<photo>
 			<item>http://www.realtymag.ru/img/notice/kvartira/prodazha/0001.jpg</item>
