@@ -100,6 +100,27 @@
             -->
             <currency>RUR</currency>
         </price>
+        <video-review>
+            <!--
+                прямая ссылка на видео с вашим объектом с YouTube, без сокращений и счётчиков переходов
+                cсылка должна быть без параметра таймкода, например &t=2s
+                текст
+            -->
+            <youtube-video-review-url>http://youtu.be/iwGFalTRHDA</youtube-video-review-url>     
+            <!--
+                Возможность показать недвижимость по видео-звонку, например в WhatsApp, Skype, Viber или FaceTime
+                строго ограниченные значения:
+                * да
+                * нет
+                * true
+                * false
+                * 1
+                * 0
+                * +
+                * -
+            -->   
+            <online-show>да</online-show>
+        </video-review>
         <!--
             имеется свидетельство о собственности
             строго ограниченные значения:
